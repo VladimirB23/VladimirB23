@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="<div class="tenor-gif-embed" data-postid="17016905037394647744" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/pantheon-gif-17016905037394647744">Pantheon GIF</a>from <a href="https://tenor.com/search/pantheon-gifs">Pantheon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width='500'/>
+  <img src="href="https://tenor.com/view/pantheon-gif-17016905037394647744" width='500'/>
 </div>
 <div id="badges" align="center">
   </a>
