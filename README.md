@@ -1,5 +1,5 @@
 <div id="header" align="center">
-\\\
+
 </div>
 <div id="badges" align="center">
   </a>
