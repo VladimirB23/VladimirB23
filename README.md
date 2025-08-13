@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/pantheon-gif-17016905037394647744" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI2ajE5dXVzZzI1dDRsazNxZ2c5bDc3YjZheXY4bzBnNm82M2wyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
