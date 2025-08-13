@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="href="https://tenor.com/view/pantheon-gif-17016905037394647744" width='500'/>
+  <img src="https://tenor.com/view/pantheon-gif-17016905037394647744" width='500'/>
 </div>
 <div id="badges" align="center">
   </a>
