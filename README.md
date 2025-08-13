@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  [pantheon](https://github.com/user-attachments/assets/d67060fe-d588-4152-8197-f732fe535456) width='500'
+  ![pantheon](https://github.com/user-attachments/assets/d67060fe-d588-4152-8197-f732fe535456)
 </div>
 <div id="badges" align="center">
   </a>
