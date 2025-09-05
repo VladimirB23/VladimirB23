@@ -84,6 +84,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirB23)](https://github.com/anuraghazra/github-readme-stats)
 
-> “Сначала было желание. Потом — таблицы. Потом — инсайты.”
+> “Сначала было желание. Потом - таблицы. Потом - инсайты.”
 
 ![gandalf](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
